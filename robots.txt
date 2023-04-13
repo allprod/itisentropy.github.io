@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ItIsEntropy.github.io/sitemap.xml
